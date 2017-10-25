@@ -3,7 +3,7 @@ React native application
 
 *Please note this app is under development*
 
-##Libraries:
+## Libraries:
 - react-fela
 - react-redux
 - react-reouter-native
