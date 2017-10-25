@@ -1,6 +1,8 @@
 # Learn-Ai-app
 React native application
 
+_demo video_: https://youtu.be/UMwYHVOzfig
+
 *Please note this app is under development*
 
 ## Libraries:
