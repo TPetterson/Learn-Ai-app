@@ -15,3 +15,4 @@ React native application
 - redux-logger
 - redux-persist
 - redux-thunk
+- firebase
